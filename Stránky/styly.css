@@ -20,10 +20,6 @@ section, footer {
     color: aliceblue;
     padding: 30px 30px 30px 30px;
 }
-main {
-    float: left;
-    background-color: none;
-}
 header {
     width: 1000px;
     margin: auto;
