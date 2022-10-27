@@ -39,3 +39,21 @@ header {
     margin: 10px;
     width: 150px;
 }
+nav {
+    background-color: #00076f;
+}
+nav ul {
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 5px 30px;
+    color: aliceblue;
+}
+nav a:hover {
+    background-color: black;
+}
