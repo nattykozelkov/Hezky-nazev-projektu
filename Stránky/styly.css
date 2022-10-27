@@ -1,12 +1,19 @@
 body {
-    background: url(images/photo-1464802686167-b939a6910659.jpeg);
+    background: url(images/milky-way-galaxy-with-stars-space-dust-universe_33900-3.jpeg);
 }
 .title {
     text-align: center;
     width: 100vw;
     color: aliceblue;
     font-size: 30px;
-    font-family: 'Old Standard TT', serif;
+}
+.title2 {
+    color: aliceblue;
+}
+.text {
+    color: aliceblue;
+    border: solid 7px #00076f;
+    background-color: #00076f;
 }
 .obr:hover {
     transform: scale(1.1);
