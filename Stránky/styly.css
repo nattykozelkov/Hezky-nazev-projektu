@@ -1,20 +1,45 @@
 body {
     background: url(images/milky-way-galaxy-with-stars-space-dust-universe_33900-3.jpeg);
 }
+.text {
+    padding: 10px;
+}
 .title {
     text-align: center;
-    width: 100vw;
     color: aliceblue;
     font-size: 30px;
 }
-.title2 {
-    color: aliceblue;
-}
-.text {
-    color: aliceblue;
-    border: solid 7px #00076f;
-    background-color: #00076f;
-}
 .obr:hover {
     transform: scale(1.1);
+}
+section, footer {
+    width: 1000px;
+    margin: auto;
+    line-height: 1,5;
+    background-color: #00076f;
+    color: aliceblue;
+    padding: 30px 30px 30px 30px;
+}
+main {
+    float: left;
+    background-color: none;
+}
+header {
+    width: 1000px;
+    margin: auto;
+    line-height: 1,5;
+    background-color: #00076f;
+    color: aliceblue;
+    padding: 0,5px 0,5px 0,5px 0,5px;
+}
+.text2 img {
+    float: right;
+    margin: 10px;
+    width: 150px;
+    background-color: aliceblue;
+}
+.text img {
+    float: left;
+    margin: 10px;
+    width: 150px;
 }
