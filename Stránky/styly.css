@@ -5,7 +5,7 @@ html {
 body {
     background-color: #0C164f;
 }
-.planets{
+.pl{
     display: flex;
     width: 100%;
     justify-content: space-around;
