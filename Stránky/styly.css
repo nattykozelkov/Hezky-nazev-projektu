@@ -8,6 +8,7 @@ body {
     text-align: center;
     color: aliceblue;
     font-size: 30px;
+    padding: 40px 40px 50px 40px;
 }
 .obr:hover {
     transform: scale(1.1);
@@ -28,8 +29,11 @@ header {
     background-color: #00076f;
     color: aliceblue;
     padding: 30px 30px 30px 30px;
+<<<<<<< HEAD
     border-radius: 25px
     
+=======
+>>>>>>> def58fb (obrázky)
 }
 .text2 img {
     float: right;
@@ -60,6 +64,7 @@ nav a {
 nav a:hover {
     background-color: black;
 }
+<<<<<<< HEAD
 .Merkur img{
     float: right;
     margin: 10px;
@@ -97,4 +102,45 @@ nav a:hover {
     color: aliceblue;
     padding: 30px 30px 30px 30px;
     border-radius: 25px
+=======
+.Merkur {
+    width: 1000px;
+    margin: auto;
+    line-height: 1,5;
+    background-color: #00076f;
+    color: aliceblue;
+    padding: 30px 30px 30px 30px;
+    
+}
+.Merkur img {
+    float: right;
+    margin: auto;
+    width: 150px;
+}
+.Chark {
+    width: 1000px;
+    margin: auto;
+    line-height: 1,5;
+    background-color: #00076f;
+    color: aliceblue;
+    padding: 30px 30px 30px 30px;
+}
+.Povrch {
+    idth: 1000px;
+    margin: auto;
+    line-height: 1,5;
+    background-color: #00076f;
+    color: aliceblue;
+    padding: 30px 30px 30px 30px;
+}
+.pov img {
+    float: right;
+    margin: auto;
+    width: 200px;
+}
+.text3 img {
+    float: right;
+    margin: 10px;
+    width: 150px;
+>>>>>>> def58fb (obrázky)
 }
