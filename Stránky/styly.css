@@ -19,6 +19,7 @@ section, footer {
     background-color: #00076f;
     color: aliceblue;
     padding: 30px 30px 30px 30px;
+    border-radius: 25px
 }
 header {
     width: 1000px;
@@ -26,7 +27,9 @@ header {
     line-height: 1,5;
     background-color: #00076f;
     color: aliceblue;
-    padding: 0,5px 0,5px 0,5px 0,5px;
+    padding: 30px 30px 30px 30px;
+    border-radius: 25px
+    
 }
 .text2 img {
     float: right;
@@ -56,4 +59,42 @@ nav a {
 }
 nav a:hover {
     background-color: black;
+}
+.Merkur img{
+    float: right;
+    margin: 10px;
+    width: 150px;
+}
+.text5 img {
+    float: right;
+    margin: 10px;
+    width: 150px;
+}
+.fotografie,.fotografie_popisky {
+    display: flex;
+    justify-content: center;
+}
+.fotografie_popisky {
+    text-align: center;
+    width: 150px;
+    margin: 10px;
+}
+.fotografie img {
+    box-shadow: 5px 5px 5px 0px #888888;
+}
+.fotografie a:hover {
+    transform: scale(1.2);
+}
+.fotky img {
+    width: 150px;
+    margin: 30px;
+}
+.fotky {
+    width: 1000px;
+    margin: auto;
+    line-height: 1,5;
+
+    color: aliceblue;
+    padding: 30px 30px 30px 30px;
+    border-radius: 25px
 }
